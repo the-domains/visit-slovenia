@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Discover Slovenia]]></title>
+        <description><![CDATA[Discover Slovenia]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jul 2016 08:02:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/022fae2c-6237-4579-b0da-dbee142321a5.jpg" alt="So&ccaron;a River">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/022fae2c-6237-4579-b0da-dbee142321a5.jpg</link>
+            <guid isPermaLink="false">d6ec36a4-0b5f-4e56-87a2-49ce0c567ce5</guid>
+            <pubDate>Wed, 27 Jul 2016 08:02:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
