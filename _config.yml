@@ -1,4 +1,3 @@
-layout_spectrum: 0.7364454881753772
 typography_spectrum: 0.18026228458620608
 color:
   brandStrength: 0.14753274922259152
@@ -11,5 +10,7 @@ color:
     - '#7ECEFD'
     - '#FFF6E5'
     - '#FF7F66'
+layout_spectrum: 0.7364454881753772
 name: Visit Slovenia
 title: Discover Slovenia
+description: European Pearl
